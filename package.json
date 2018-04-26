@@ -1,6 +1,7 @@
 {
   "name": "ngOnboarding",
   "version": "0.1.7",
+  "main": "dist/ng-onboarding.js"
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-coffee": "~0.7",
